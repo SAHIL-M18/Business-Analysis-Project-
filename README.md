@@ -33,11 +33,7 @@ This project focuses on analyzing and visualizing sales data from a pizza busine
 - **SQL Environment**: Any SQL tool like MySQL Workbench, PostgreSQL, or SQLite for running the SQL script.
 - **Spreadsheet Software**: Microsoft Excel or Google Sheets to view and analyze the supply chain data.
 
-### Steps:
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+
 
 
 Open the files using the appropriate tools:
